@@ -1,0 +1,5 @@
+To-do topics
+
+- Shared matrix by Encoder Input Embedding and Decoder Output Projection
+- FP8 Amax
+- gemm in backpropagation
